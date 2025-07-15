@@ -28,5 +28,5 @@ Whether you're a student, developer, or just curious about how trajectories work
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/tpa.git
+   git clone https://github.com/NanioProo/tpa.git
    cd tpa
